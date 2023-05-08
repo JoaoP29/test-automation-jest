@@ -1,2 +1,2 @@
-# test-automation-postman
- Postman test automation repository
+# test-automation-jest
+ JEST test automation repository
